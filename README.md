@@ -2,6 +2,10 @@
 This repository contains the source code and data for the research paper:
 "Reactor Power Monitoring using Cherenkov Radiation with a Commercial Camera System"
 
+We have an updated journal paper:
+"A Video-Based Optical Approach to Reactor Power Monitoring using Cherenkov Emission"
+and can be found at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6150808
+And the data and scripts for this exists at: https://github.com/jay-nuclear-phd/power_by_cherenkov
 ---
 
 ### Prerequisites
